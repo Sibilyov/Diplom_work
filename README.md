@@ -37,3 +37,4 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
+![video_2024-05-14_14-08-36](https://github.com/Sibilyov/Diplom_work/assets/90633901/5ee0eb05-03a3-4396-87f8-61a9f86749cc)
