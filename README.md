@@ -64,7 +64,8 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
-![photo_2024-05-14_14-54-05](https://github.com/Sibilyov/Diplom_work/assets/90633901/b331bfb8-6f3b-4e6f-904c-96a550742269)
+![Снимок](https://github.com/Sibilyov/Diplom_work/assets/90633901/0ea11ac7-91d3-42d1-b620-79a7653bc691)
+
 
 
 
