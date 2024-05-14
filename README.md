@@ -59,7 +59,38 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
+Функционал бронирования
+
+
+
+
+![video_2024-05-14_15-04-26](https://github.com/Sibilyov/Diplom_work/assets/90633901/d196a6ae-7169-4bd1-89ad-22e8242861a9)
+
+
+
+
+
+
+
+Функционал шаблонов вещей
+
+
+
+![video_2024-05-14_15-04-29](https://github.com/Sibilyov/Diplom_work/assets/90633901/3c05f1d5-ed54-4c37-bd56-007f460000a9)
+
+
+
+
+Функционал личного шаблона вещей
+
+
+![video_2024-05-14_15-04-39](https://github.com/Sibilyov/Diplom_work/assets/90633901/0e3e1e97-0175-4874-92a4-614b28602bd3)
+
+
+
+
 Экран заметок 
+
 
 
 
@@ -111,3 +142,9 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
+Экран настроек
+
+
+
+
+![image](https://github.com/Sibilyov/Diplom_work/assets/90633901/11c3ec35-ab3b-46ac-9b13-7daeebb65720)
