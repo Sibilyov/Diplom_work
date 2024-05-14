@@ -50,3 +50,8 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
+Функционал первой помощи
+
+
+
+![video_2024-05-14_14-28-02](https://github.com/Sibilyov/Diplom_work/assets/90633901/11290d2e-6fe0-402c-8bbc-153fd6058c40)
