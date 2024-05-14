@@ -25,4 +25,15 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
-![Снимок](https://github.com/Sibilyov/Diplom_work/assets/90633901/c66d9bbd-7aa9-4503-945c-63faaa6567e3)
+![Снимок](https://github.com/Sibilyov/Diplom_work/assets/90633901/c66d9bbd-7aa9-4503-945c-63faaa6567e3) 
+
+
+
+
+
+
+
+Функционал карт
+
+
+Uploading video_2024-05-14_14-08-36.mp4…
