@@ -38,3 +38,15 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 ![video_2024-05-14_14-08-36](https://github.com/Sibilyov/Diplom_work/assets/90633901/5ee0eb05-03a3-4396-87f8-61a9f86749cc)
+
+
+
+
+Функционал погоды
+
+
+
+![video_2024-05-14_14-21-30](https://github.com/Sibilyov/Diplom_work/assets/90633901/b212e6f9-8d31-4339-9ad9-80179a5dfdec)
+
+
+
