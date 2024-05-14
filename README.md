@@ -36,4 +36,4 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 Функционал карт
 
 
-Uploading video_2024-05-14_14-08-36.mp4…
+
