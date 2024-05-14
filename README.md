@@ -89,6 +89,27 @@ https://disk.yandex.ru/d/cpNTwjx7O646HQ
 
 
 
+Мини-игра
+
+
+
+![video_2024-05-14_15-10-38](https://github.com/Sibilyov/Diplom_work/assets/90633901/46914d6c-3534-4d48-b3de-947a19c9d70b)
+
+
+
+
+
+
+Функционал галереии
+
+
+
+
+![video_2024-05-14_15-10-33](https://github.com/Sibilyov/Diplom_work/assets/90633901/d3b68b2a-ce43-48ef-a3f4-f58dc9b6a861)
+
+
+
+
 Экран заметок 
 
 
